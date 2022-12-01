@@ -1,0 +1,11 @@
+var fname = prompt('firstname');
+var laname = prompt('lastname');
+var age = prompt('Age');
+var clas = prompt('class');
+var pname = prompt("parent's name");
+var address = prompt('address');
+var bloodGroup = prompt('bloodgroup');
+var Genotype = prompt('Genotype');
+var favouriteColor = prompt('favourite color');
+var ambition = prompt('Ambition');
+alert(+'\n1.' + fname + '\n2.' + laname + '\n3.' + age + '\n4.' + clas + '\n5.' + pname + '\n6.' + address + '\n7.' + bloodGroup + '\n8' + Genotype + '\n9.' + favouriteColor + '\n10.' + ambition);
