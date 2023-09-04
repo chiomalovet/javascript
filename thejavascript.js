@@ -1,1 +1,0 @@
-alert('Welcome to our online system');
